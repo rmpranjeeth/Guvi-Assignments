@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+section{
+    color:white;
+    background:-webkit-linear-gradient(top, white 3%,#333333 30%)
+}
+.coverimg{
+    border-radius:0px 0px 10px 10px ;
+}
+.anchor{
+    color:white;
+    text-decoration: none;
+}
+.mybtn{
+    background-color:#666666 ;
+    color:white;
+}
+.mybtn2{
+    color:white;
+}
+.logo{
+    margin-top: -20px;
+}
+.logo img{
+    border-style: solid;
+    border-color: #333333;
+}
+.card{
+    background-color:#333333;
+    color:white;
+}
